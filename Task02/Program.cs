@@ -44,4 +44,4 @@ for (int j = 0; j < counter; j++)
         }
     }
 }
-Console.WriteLine("Содержимое массива = " + sumDel);
+Console.WriteLine("Сумма цифр = " + sumDel);
